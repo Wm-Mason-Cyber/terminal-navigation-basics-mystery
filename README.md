@@ -1,4 +1,4 @@
-# Terminal Navigation Basics — William Mason Mystery
+# Terminal Navigation Basics — Mason Mystery
 
 A terminal-based mystery game for introductory computer science / digital literacy students.
 Students SSH into a server and use Linux command-line navigation to explore a directory-based
