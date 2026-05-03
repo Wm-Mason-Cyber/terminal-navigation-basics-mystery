@@ -1,0 +1,6 @@
+# Real student CSV files contain passwords — never commit them
+setup/students.csv
+setup/*_real.csv
+setup/*_class*.csv
+# The sample file stays tracked
+!setup/students.csv.example
