@@ -1,7 +1,7 @@
 
 +==============================================================+
 |        MASON HIGH SCHOOL — TERMINAL MYSTERY                  |
-|        "The Case of the Missing Comets Banner"               |
+|        "The Case of the Missing NCL Banner"                  |
 |                                                              |
 |  Read LESSON.md on the classroom projector for instructions. |
 |  Start by running:  cd /opt/comets-mystery                   |

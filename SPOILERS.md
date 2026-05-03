@@ -199,7 +199,7 @@ Scroll down to undermine the fun of this activity.
 
 **Culprit: Mr. Brown (Principal)**
 
-Mr. Brown moved the Comets Championship Banner from Room B112 to the newly renovated trophy
+Mr. Brown moved the National Cyber League (NCL) Banner from Room B112 to the newly renovated trophy
 room in the gym on Friday evening. His intentions were good — a permanent display case had
 just been installed — but he forgot to tell Mr. Rice.
 

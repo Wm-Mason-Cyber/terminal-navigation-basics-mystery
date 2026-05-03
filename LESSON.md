@@ -1,9 +1,9 @@
-# The Case of the Missing Comets Banner
+# The Case of the Missing NCL Banner
 ### A Terminal Navigation Mystery — Mason High School
 
 > [!TIP]
 > **Your mission:** Use the Linux command line to investigate the disappearance of the
-> Mason High School Championship Banner from Room B112. Navigate the school's file
+> Mason High School NCL Banner from Room B112. Navigate the school's file
 > system, gather evidence, identify the culprit, and submit your solution.
 
 The school is a **file system**. Rooms and locations are **directories (folders)**. Clues are

@@ -2,11 +2,11 @@
 
 A terminal-based mystery game for introductory computer science / digital literacy students.
 Students SSH into a server and use Linux command-line navigation to explore a directory-based
-"school" and solve the mystery of the missing Comets Championship Banner.
+"school" and solve the mystery of the missing NCL Banner.
 
 ## Overview
 
-**Mystery:** The Mason High School championship banner has gone missing from Room B112
+**Mystery:** The Mason High School NCL Banner has gone missing from Room B112
 over the weekend. Students must navigate the school's file system, gather clues, and identify
 the culprit.
 

@@ -1,7 +1,7 @@
 +==============================================================+
 |          MASON HIGH SCHOOL — TERMINAL MYSTERY                |
 |                                                              |
-|        "The Case of the Missing Comets Banner"               |
+|        "The Case of the Missing NCL Banner"                  |
 |                                                              |
 |               A game by Mr. Rice, Room B112                  |
 +==============================================================+
@@ -9,8 +9,8 @@
 Good morning, Detective.
 
 Mr. Rice has reported a disturbing incident here at Wm. Mason
-High School. The Comets Championship Banner — awarded after last
-year's state championship — has GONE MISSING from Room B112.
+High School. The National Cyber League (NCL) Banner — awarded after last
+year's NCL regional competition — has GONE MISSING from Room B112.
 
 The banner was hanging on the back wall of B112 on Friday afternoon.
 It is now Monday morning. It is gone. Mr. Rice is not happy.
