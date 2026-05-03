@@ -1,0 +1,38 @@
++==============================================================+
+|          MASON HIGH SCHOOL — FLOOR MAP                       |
+|          (as a file system)                                  |
++==============================================================+
+
+school/
+|
++-- B112/               <- START HERE (Mr. Rice's classroom)
+|                          The banner was last seen on the back wall.
+|
++-- hallway/            <- Security cameras, student lockers
+|
++-- office/             <- Main office, reception log
+|   |
+|   +-- principals/
+|       +-- brown_office/
+|       +-- drake_office/
+|       +-- rompies_office/
+|
++-- gym/                <- Athletic facilities
+|   |
+|   +-- trophy_room/    <- Where are those trophies?
+|
++-- cafeteria/          <- (Probably not relevant. Unless you're hungry.)
+
+SUGGESTED INVESTIGATION ORDER:
+  1. B112          -- where the banner was
+  2. hallway       -- witness accounts, security footage
+  3. office        -- check who stayed late Friday
+  4. gym           -- follow the evidence
+
+NAVIGATION REMINDERS:
+  cd B112          enter a directory
+  cd ..            go up one level
+  cd ../..         go up two levels
+  cd -             jump back to previous directory
+  ls -lAh          list ALL files, including hidden ones (dot-files)
+  cat <file>       read a file

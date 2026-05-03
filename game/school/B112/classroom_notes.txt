@@ -1,0 +1,30 @@
++--------------------------------------------------------------+
+|  ROOM B112 — INCIDENT REPORT                                 |
+|  Filed by: Mr. Rice                                          |
+|  Date: Monday Morning                                        |
++--------------------------------------------------------------+
+
+Something terrible has happened.
+
+The Comets Championship Banner — awarded after our historic
+state championship last spring — has vanished from its place of
+honor on the back wall of Room B112.
+
+The banner was definitely here when I left on Friday at 3:30 PM.
+By Monday morning, it was gone.
+
+WHAT I KNOW:
+  - Mr. Brown (principal) stopped by the classroom after school
+    on Friday — around 5 PM. My 5th period students saw him
+    in the hallway just before they left.
+  - He mentioned something about "making arrangements," but
+    didn't say more.
+
+LEADS TO FOLLOW:
+  - Check for any logs left behind in this room
+  - Review the security camera footage in the hallway
+  - Check the main office reception log
+
+HINT: There may be more files in this directory than you can
+      see with a plain "ls". Try:
+        ls -lAh

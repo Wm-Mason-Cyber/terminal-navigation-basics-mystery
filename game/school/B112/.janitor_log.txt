@@ -1,0 +1,27 @@
++--------------------------------------------------------------+
+|  JANITOR'S LOG — Mason High School                          |
+|  Logged by: Carl (Head Custodian)                            |
++--------------------------------------------------------------+
+
+FRIDAY EVENING:
+
+  4:00 PM  Cleaned B110, B111, B112. All normal.
+           The Comets banner was still on the wall in B112.
+
+  5:30 PM  Spotted one of the principals in the B-wing hallway.
+           They were carrying something large and rectangular —
+           looked like a framed banner or poster, wrapped in
+           brown paper.
+           They were heading in the direction of the GYM.
+
+  5:45 PM  Checked the hallway. Person was gone.
+           The security camera near locker 2024 should have
+           caught this on video.
+
+  6:00 PM  Locked up the building. Everything else normal.
+
+NOTE TO SELF: The gym's trophy room was unlocked all weekend
+              for the renovation crew.
+
+HINT: Head to the hallway next. Check the security footage.
+  Try:  cd ../hallway

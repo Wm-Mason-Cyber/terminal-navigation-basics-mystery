@@ -1,0 +1,25 @@
++--------------------------------------------------------------+
+|  MASON HIGH SCHOOL — TROPHY ROOM                             |
+|  Official Display Inventory — Updated This Weekend           |
++--------------------------------------------------------------+
+
+CASE 1: Academic Achievements
+  - Science Olympiad Regional Champions (2019, 2021, 2023)
+  - Math Bowl State Finalists (2022)
+  - Debate Team National Qualifiers (2024)
+
+CASE 2: Athletic Championships
+  - Football State Runners-Up (2018)
+  - Swimming Regional Champions (2020, 2022)
+  - Soccer State Champions (2023)
+
+CASE 3: *** NEWLY INSTALLED — THIS WEEKEND ***
+  - Comets Championship Banner
+    [Moved from Room B112, Friday evening]
+    [Installed by Principal Brown]
+    [Pending: official dedication ceremony — date TBD]
+
+    >>> THE BANNER IS HERE. IT IS SAFE. <<<
+
+HINT: Read the note left in this room for the full explanation.
+  Try:  cat relocation_note.txt

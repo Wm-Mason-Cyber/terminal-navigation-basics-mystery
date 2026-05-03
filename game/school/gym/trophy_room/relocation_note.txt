@@ -1,0 +1,69 @@
++--------------------------------------------------------------+
+|  NOTE FROM PRINCIPAL BROWN                                   |
+|  Left in the Trophy Room — For Anyone Investigating          |
++--------------------------------------------------------------+
+
+If you are reading this, you are probably here because you
+followed the evidence trail. Well done.
+
+MYSTERY SOLVED:
+  I, Mr. Brown (Principal), moved the Comets Championship
+  Banner from Room B112 to this trophy room on Friday evening.
+
+  A new permanent display case was installed over the weekend,
+  and I felt the banner deserved to be seen by the entire
+  school — not just Mr. Rice's classes (sorry, Mr. Rice!).
+
+  I drafted a memo to Mr. Rice explaining everything, but I
+  forgot to send it before leaving for the weekend retreat.
+  That was my mistake, and I apologize.
+
+  The banner is safe. It belongs to the whole school.
+
+--------------------------------------------------------------
+EVIDENCE YOU SHOULD HAVE FOUND ALONG THE WAY:
+--------------------------------------------------------------
+  [1]  classroom_notes.txt         -- banner was in B112 Friday
+  [2]  .janitor_log.txt            -- (hidden!) janitor saw someone
+  [3]  security_camera_footage.txt -- principal filmed at 5:43 PM
+  [4]  locker_2024_.../note.txt    -- witness names Mr. Brown
+  [5]  reception_log.txt           -- Brown signed out to "Gym"
+  [6]  desk_calendar.txt           -- "Relocate banner — 5 PM Fri"
+  [7]  .draft_memo.txt             -- (hidden!) the unsent confession
+  [8]  display_cases.txt           -- banner listed in new Case 3
+  [9]  THIS FILE                   -- confirmed!
+
+--------------------------------------------------------------
+CONGRATULATIONS, DETECTIVE. NOW SUBMIT YOUR SOLUTION.
+--------------------------------------------------------------
+
+  STEP 1 — Review your command history:
+      history
+
+  STEP 2 — Go home:
+      cd ~
+
+  STEP 3 — Remove the scratch directory:
+      rm -r scratch
+
+  STEP 4 — Create your solution directory and file:
+      mkdir solution
+      touch solution/answer.txt
+
+  STEP 5 — Write your answer (fill in the blanks):
+      echo "STUDENT: your-username"             >> solution/answer.txt
+      echo "CULPRIT: Mr. Brown (Principal)"     >> solution/answer.txt
+      echo "LOCATION: Trophy room in the gym"   >> solution/answer.txt
+      echo "EVIDENCE: [key clues you found]"    >> solution/answer.txt
+
+  STEP 6 — Append your full command history:
+      history >> solution/answer.txt
+
+  STEP 7 — Read your solution file to confirm:
+      cat solution/answer.txt
+
+      Want to read it again without retyping? Try:  !!
+
+  STEP 8 — Done! Show Mr. Rice your terminal.
+
+Go Comets!

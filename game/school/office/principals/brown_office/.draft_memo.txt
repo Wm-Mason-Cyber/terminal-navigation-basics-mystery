@@ -1,0 +1,41 @@
++--------------------------------------------------------------+
+|  DRAFT MEMO  [NEVER SENT]                                    |
++--------------------------------------------------------------+
+
+FROM:  Principal Brown
+TO:    Mr. Rice, Room B112
+RE:    Comets Championship Banner — Relocation Notice
+DATE:  Friday
+
+Dear Mr. Rice,
+
+I wanted to let you know that I arranged for the Comets
+Championship Banner to be moved from Room B112 to the newly
+renovated trophy room in the gym.
+
+A permanent display case has been installed, and I felt the
+banner deserved a more prominent, school-wide location rather
+than a single classroom — no offense intended! Your students
+can be proud knowing the whole school will see it every day.
+
+I should have talked to you first. I apologize for acting
+without telling you in advance. I drafted this memo to
+explain, but... I forgot to send it before leaving for the
+weekend retreat.
+
+The banner is safe. Please visit the trophy room to confirm,
+and I will arrange a small dedication ceremony.
+
+Sincerely,
+Mr. Brown
+Principal, Mason High School
+
+P.S. — Go Comets!
+
+--------------------------------------------------------------
+[STATUS: DRAFT — NEVER SENT]
+--------------------------------------------------------------
+
+HINT: You have enough evidence. Head to the gym trophy room!
+  Try:  cd ../../gym/trophy_room
+    or: cd -   to jump back, then navigate to gym/

@@ -1,0 +1,26 @@
++--------------------------------------------------------------+
+|  MAIN OFFICE — SIGN-OUT LOG                                  |
+|  Receptionist: Ms. Chen                                      |
+|  Date: Friday                                                |
++--------------------------------------------------------------+
+
+NAME            TIME     DESTINATION          NOTES
+-----------     -----    ----------------     -----------------
+Mr. Rice        3:30 PM  Home                 Normal departure
+Mrs. Drake      2:45 PM  District Office      Conference all weekend
+Mr. Rompies     4:00 PM  Soccer fields        JV game, then trip
+Mr. Brown       5:47 PM  Gym / Trophy Room    "Maintenance task"
+Carl (janitor)  6:15 PM  Home                 Building secured
+
+NOTES FROM MS. CHEN:
+  - Mrs. Drake was off-campus the entire weekend for the
+    district leadership conference. Not on-site.
+  - Mr. Rompies left for the JV soccer game against Riverside,
+    then drove directly to a family camping trip after.
+  - Mr. Brown signed out late and specifically listed
+    "Gym / Trophy Room" as his destination.
+
+The principals' offices are down the hall from reception.
+
+  cd principals/
+  ls

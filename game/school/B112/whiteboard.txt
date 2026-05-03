@@ -1,0 +1,26 @@
++--------------------------------------------------------------+
+|  MR. RICE'S WHITEBOARD — ROOM B112                          |
++--------------------------------------------------------------+
+
+TODAY'S AGENDA:
+  1. Warm-up: pwd and whoami
+  2. Lesson: Terminal navigation
+  3. Activity: Solve the mystery!
+
+COMMAND CHEAT SHEET:
+  pwd            print working directory (where am I?)
+  ls             list files here
+  ls -lAh        list ALL files including hidden ones
+  cd <dir>       enter a directory
+  cd ..          go up one level
+  cd ../..       go up two levels
+  cd ~           go home
+  cd /           go to root of the filesystem
+  cd -           jump back to previous directory
+  cat <file>     read a file
+  whoami         who am I logged in as?
+  history        see all commands typed this session
+  !!             repeat last command
+
+TAB KEY:  press tab to autocomplete long filenames!
+UP/DOWN:  scroll through previous commands

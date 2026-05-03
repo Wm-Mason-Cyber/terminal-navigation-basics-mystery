@@ -1,0 +1,32 @@
++--------------------------------------------------------------+
+|  HALLWAY SECURITY CAMERA — FOOTAGE LOG                       |
+|  Camera: B-Wing, near lockers 2020-2030                      |
+|  Date: Friday                                                |
++--------------------------------------------------------------+
+
+TIMESTAMP    ACTIVITY
+---------    --------
+3:28 PM      Mr. Rice exits Room B112. Waves to students.
+3:30-5:00    Normal student/staff traffic. Buses departing.
+5:15 PM      Building mostly empty. Janitor Carl visible.
+5:43 PM      PRINCIPAL enters B-wing from direction of main office.
+             Carrying large flat rectangular object.
+             Object is wrapped in brown paper.
+             Direction of travel: TOWARD GYM.
+5:52 PM      Same individual returns — WITHOUT the object.
+             Returns toward the main office.
+6:05 PM      Carl locks up the building.
+
+ANALYST NOTES:
+  The individual in the 5:43 PM clip is identifiable but the
+  footage quality is limited. A witness near the lockers may
+  have seen more.
+
+HINT: There's a note inside a locker nearby. The locker number
+      relates to the current school year.
+
+      Try listing the hallway directory — but use TAB to
+      autocomplete the long locker directory name!
+
+        ls
+        cd locker_<TAB>

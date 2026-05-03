@@ -1,0 +1,30 @@
++--------------------------------------------------------------+
+|  NOTE — Found inside locker #2024                            |
++--------------------------------------------------------------+
+
+Hey —
+
+I was staying late for robotics club on Friday and I saw
+something surprising on my way out.
+
+It was almost 6 PM. I was heading down the B-wing hallway
+when I spotted MR. BROWN carrying the big Comets banner.
+It was wrapped in brown paper but I could tell what it was —
+that banner has been in B112 since I was a freshman.
+
+I asked him where he was going with it. He said something like
+"it's going to its proper place" and gestured toward the gym.
+
+At the time I didn't think much of it. But now that it's
+gone from Mr. Rice's room...
+
+If you want proof it was planned, check Mr. Brown's office.
+He keeps a desk calendar. I bet it's on there.
+
+  — A concerned Robotics Club member
+
+HINT: Head to the main office to check the reception log and
+      Mr. Brown's office calendar.
+
+  Try:  cd ../../office
+    or: cd -    (if you were just in the office a moment ago!)

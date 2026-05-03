@@ -1,0 +1,13 @@
++--------------------------------------------------------------+
+|  MASON HIGH SCHOOL CAFETERIA — WEEKLY MENU                  |
++--------------------------------------------------------------+
+
+MONDAY     Pizza (cheese or pepperoni), Caesar salad, fruit cup
+TUESDAY    Chicken tenders, mashed potatoes, green beans
+WEDNESDAY  Pasta bar (choose your sauce!), garlic bread, salad
+THURSDAY   Tacos, rice and beans, chips & salsa
+FRIDAY     Burgers or veggie burgers, sweet potato fries
+
+(The banner is definitely not in the cafeteria.
+ Unless you are here because you are actually hungry.
+ In that case, the pasta bar is pretty good.)

@@ -1,0 +1,41 @@
++==============================================================+
+|          MASON HIGH SCHOOL — TERMINAL MYSTERY                |
+|                                                              |
+|        "The Case of the Missing Comets Banner"               |
+|                                                              |
+|               A game by Mr. Rice, Room B112                  |
++==============================================================+
+
+Good morning, Detective.
+
+Mr. Rice has reported a disturbing incident here at Wm. Mason
+High School. The Comets Championship Banner — awarded after last
+year's state championship — has GONE MISSING from Room B112.
+
+The banner was hanging on the back wall of B112 on Friday afternoon.
+It is now Monday morning. It is gone. Mr. Rice is not happy.
+
+Three principals had access to the building over the weekend:
+  - Mr. Brown    (Principal)
+  - Mrs. Drake   (Vice Principal)
+  - Mr. Rompies  (Assistant Principal)
+
+One of them knows where that banner is.
+
+YOUR MISSION:
+  Navigate through the school's file system, gather evidence,
+  identify who is responsible, and submit your solution.
+
+GETTING STARTED:
+  1. Look around here first:
+       ls
+       ls -lAh       (shows hidden files too!)
+
+  2. Enter the school:
+       cd school
+
+  3. Get the map:
+       cat map.txt
+
+Good luck, Detective.
+The Comets are counting on you.
