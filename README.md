@@ -123,7 +123,7 @@ sudo bash setup/setup_game.sh
 
 ## The Mystery — SPOILER
 
-Go and find [SPOLERS.md](#) if you really need the help, and don't like fun. 
+Go and find [SPOLERS.md](SPOILERS.md) if you really need the help, and don't like fun. 
 
 Ideally: only scroll as far through the spoilers as you must, to get un-stuck.
 
