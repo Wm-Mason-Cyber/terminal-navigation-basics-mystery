@@ -1,0 +1,18 @@
+services:
+  mystery:
+    build: .
+    container_name: comets-mystery
+    ports:
+      # Students connect to port 2222 on the host.
+      # Change the left side if 2222 is already in use.
+      - "2222:22"
+    volumes:
+      # Mount your real student CSV (not committed to git).
+      # See setup/students.csv.example for the expected format.
+      - ./setup/students.csv:/opt/setup/students.csv:ro
+      # Persist home directories across restarts so student work survives.
+      - student_homes:/home
+    restart: unless-stopped
+
+volumes:
+  student_homes:
