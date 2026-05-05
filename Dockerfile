@@ -31,7 +31,8 @@ RUN chown -R root:root /opt/comets-mystery && \
 
 # Copy setup scripts so the entrypoint can use them
 COPY setup/ /opt/setup/
-RUN chmod +x /opt/setup/*.sh
+RUN chmod +x /opt/setup/*.sh && \
+    chmod 400 /opt/setup/students.csv /opt/setup/students.csv.example
 
 COPY docker-entrypoint.sh /usr/local/bin/docker-entrypoint.sh
 RUN chmod +x /usr/local/bin/docker-entrypoint.sh
